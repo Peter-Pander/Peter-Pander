@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Max 👋  
 
-<!--
-**Peter-Pander/Peter-Pander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer**, **Frontend Enthusiast**, and **Aspiring Game Dev**.
+I started in law but found my passion in coding. There’s nothing like seeing a product you built come to life! Currently, I’m working on **LairBnB**, a fantasy rental platform, and expanding my skills by diving into **Unity** to explore game development.
 
-Here are some ideas to get you started:
+I’m especially drawn to **cyberpunk aesthetics** and love creating stylish, user-friendly apps. 
+I also have a strong connection to **Japan**—I studied in Osaka for a year, worked in Tokyo for six months, and hold **JLPT N2**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech I’m working with:
+- Ruby on Rails
+- JavaScript & Stimulus
+- PostgreSQL
+- SCSS & Bootstrap
+
+🚀 Always up for new projects, discussions, or exchanging ideas. Let’s connect!
