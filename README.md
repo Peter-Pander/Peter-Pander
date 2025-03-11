@@ -13,3 +13,8 @@ I also have a strong connection to **Japan**—I studied in Osaka for a year, wo
 - SCSS & Bootstrap
 
 🚀 Always up for new projects, discussions, or exchanging ideas. Let’s connect!
+
+---
+
+### Fun fact:
+Football is like chess, just without the dice! ⚽♟️
