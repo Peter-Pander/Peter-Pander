@@ -7,8 +7,6 @@ I’m especially drawn to **cyberpunk aesthetics** and love bringing ideas to li
 
 I also have a strong connection to **Japan** — I studied in Osaka for a year, worked in Tokyo for six months, and hold **JLPT N2**.
 
----
-
 ### 💻 Tech I’m working with:
 - Ruby on Rails
 - JavaScript (ES6+)
