@@ -8,4 +8,4 @@ Whether I'm working with **React** or **Stimulus**, I enjoy crafting frontends t
 
 I also have a strong connection to Japan 🇯🇵 — I studied in Osaka, worked in Tokyo, and passed the **JLPT N2**.
 
-🚀 Always up for new projects, discussions, or exchanging ideas. Let’s connect! 🤝
+🚀 I'm always up for new projects, discussions, or exchanging ideas. Let’s connect! 🤝
